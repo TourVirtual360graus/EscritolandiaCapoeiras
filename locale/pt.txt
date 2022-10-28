@@ -1,0 +1,130 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=%2B554888343000
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=%2B554888343000
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=%2B554888343000
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=%2B554888343000
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CeR3uSadD7rWEBM/review
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CeR3uSadD7rWEBM/review
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://www.escritolandia.com.br/
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://www.escritolandia.com.br/
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.escritolandia.com.br/
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/escritolandiaoficial
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/escritolandiaoficial
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Escritol%C3%A2ndia+-+Capoeiras/@-27.5997967,-48.603034,15z/data=!4m5!3m4!1s0x0:0xd6ba0f9d26b977e4!8m2!3d-27.5997967!4d-48.603034
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Escritol%C3%A2ndia+-+Capoeiras/@-27.5997967,-48.603034,15z/data=!4m5!3m4!1s0x0:0xd6ba0f9d26b977e4!8m2!3d-27.5997967!4d-48.603034
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/escritolandiaoficial/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/escritolandiaoficial/
+
+## Media
+
+### Audio
+audio_02B3CA46_1E6C_11A1_41AB_4F9FFA55A096.path = null
+audio_020E0E07_1E74_11AF_41BB_39E1BAB85DA6.path = null
+audiores_0206D5CC_1E74_12BF_419A_0E5EC4608FA3.mp3Url = media/audio_020E0E07_1E74_11AF_41BB_39E1BAB85DA6_pt.mp3
+audiores_0206D5CC_1E74_12BF_419A_0E5EC4608FA3.oggUrl = media/audio_020E0E07_1E74_11AF_41BB_39E1BAB85DA6_pt.ogg
+audiores_021A03BF_1E74_16DE_4174_3DDC488199BA.mp3Url = media/audio_02B3CA46_1E6C_11A1_41AB_4F9FFA55A096_pt.mp3
+audiores_021A03BF_1E74_16DE_4174_3DDC488199BA.oggUrl = media/audio_02B3CA46_1E6C_11A1_41AB_4F9FFA55A096_pt.ogg
+
+### Title
+panorama_120DA10F_1E6F_F3BE_41BA_97238A36A429.label = 1-DeNoiseAI-standard (1)
+panorama_14A8AD2C_1E6C_13E2_4195_E87CBEA84AD0.label = 10-DeNoiseAI-standard
+panorama_14A8C4AE_1E6C_32FE_41B4_6700C0F45A4C.label = 11-DeNoiseAI-standard
+panorama_14A74C5F_1E6C_325E_417F_9BB2B1A708ED.label = 12-DeNoiseAI-standard
+panorama_14A8D41F_1E6C_11DE_4138_073193905C40.label = 13-DeNoiseAI-standard
+panorama_14A88B63_1E6C_1666_41B3_5BF76774D7EE.label = 14-DeNoiseAI-standard
+panorama_14A77324_1E6C_F7E1_4181_9EF49447ED2A.label = 15-DeNoiseAI-standard
+panorama_14A75AD5_1E6C_F6A3_4193_6C14E22D7B36.label = 16-DeNoiseAI-standard
+panorama_14A862D4_1E6C_16A1_41B7_5176EB09CA18.label = 17-DeNoiseAI-standard
+panorama_14A7BA94_1E6C_16A2_41AA_4C95D2023C96.label = 18-DeNoiseAI-standard
+panorama_14A78207_1E6C_31AE_41A5_76AA1A8FCB4C.label = 19-DeNoiseAI-standard
+panorama_14DF1A47_1E6F_F1AF_41B4_1163818C1275.label = 2.1-DeNoiseAI-standard
+panorama_14A719A8_1E6C_32E2_41A7_2C28C02AD08E.label = 20-DeNoiseAI-standard
+panorama_14A7C159_1E6C_13A2_41AF_D5845B5609F8.label = 21-DeNoiseAI-standard
+panorama_14A7289D_1E6C_12A3_41B1_4E77D0E556E8.label = 22-DeNoiseAI-standard
+panorama_14A7F0AC_1E6C_72E1_41B6_73048DEBBA82.label = 23-DeNoiseAI-standard
+panorama_14A707FF_1E6C_7E5F_41B1_16CF2333E420.label = 24-DeNoiseAI-standard
+panorama_14A70FB0_1E6C_6EE1_41A8_5B24C9D7CD0C.label = 25-DeNoiseAI-standard
+panorama_14A727DE_1E6C_1EA1_41B1_5E2D4624B0BA.label = 26-DeNoiseAI-standard
+panorama_14A75FEC_1E6C_2E62_41B4_BC89F6D53289.label = 27-DeNoiseAI-standard
+panorama_14A6C7CC_1E6C_3EA2_41B0_E3E69899752F.label = 28-DeNoiseAI-standard
+panorama_14A76FBB_1E6C_2EE6_4179_DB945DC1F488.label = 29-DeNoiseAI-standard
+panorama_14DEF1D9_1E6C_12A3_41A8_3AAA3CCC0B8D.label = 3-DeNoiseAI-standard (1)
+panorama_14A6A7DA_1E6C_1EA1_41B1_DAFC68836C2B.label = 30-DeNoiseAI-standard
+panorama_14A6EF1D_1E6B_EFA2_41B1_B5B7B4737139.label = 31-DeNoiseAI-standard
+panorama_14A6770D_1E6B_FFA3_41BB_34D43E0718BA.label = 32-DeNoiseAI-standard
+panorama_14A6BE9E_1E6B_EEDE_414C_8F770CA4C00A.label = 33-DeNoiseAI-standard
+panorama_14B99630_1E74_11E1_41B7_1F8703035209.label = 34-DeNoiseAI-standard
+panorama_14B95DB2_1E74_12E1_4166_01016397BE3E.label = 35-DeNoiseAI-standard
+panorama_14B9D553_1E74_33A6_4182_02E9ABCB92DE.label = 36-DeNoiseAI-standard
+panorama_14B9AD52_1E74_33A6_41BB_38AFB1D38A75.label = 37-DeNoiseAI-standard
+panorama_14BA2513_1E74_13A6_41A8_C317E45D6B3B.label = 38-DeNoiseAI-standard
+panorama_14BB7DED_1E74_1262_41BC_AFDC096DD6C8.label = 39-DeNoiseAI-standard
+panorama_14DEB9F7_1E6C_126E_41B5_830F59E45983.label = 4-DeNoiseAI-standard (1)
+panorama_14B9CE2A_1E74_71E1_41A4_C5F744326EB0.label = 40-DeNoiseAI-standard
+panorama_14BA4698_1E74_7EA2_4191_5F116887BF5A.label = 40.1-DeNoiseAI-standard
+panorama_14BA3619_1E74_11A2_41A9_1D996F822656.label = 41-DeNoiseAI-standard
+panorama_14BA7DE9_1E74_1262_41AA_57D955372B4D.label = 42-DeNoiseAI-standard
+panorama_14BA354C_1E74_33A2_41B4_644EAEA1F12E.label = 43-DeNoiseAI-standard
+panorama_14BA8CCE_1E74_32BE_41A9_B2C300EA1A39.label = 44-DeNoiseAI-standard
+panorama_12638E87_1E6C_6EAE_41A6_D393D90CD25C.label = 6-DeNoiseAI-standard
+panorama_14A74676_1E6C_7E6E_41B8_1183EB1E2A1B.label = 7-DeNoiseAI-standard
+panorama_14A8FDBA_1E6C_72E1_41AC_9F8D246F523A.label = 8-DeNoiseAI-standard
+panorama_14A8E50E_1E6C_13A1_41AD_DDA8D0DEE5CB.label = 9-DeNoiseAI-standard
+panorama_05263135_1EB4_13E2_41BB_724B75E9A174.label = aerea-DeNoiseAI-standard
+panorama_14BAB4AE_1E74_12FE_419E_BE550A679F2F.label = dentro 1-DeNoiseAI-standard
+panorama_14BACBF2_1E74_1666_41BE_1011FCFAF477.label = dentro 2-DeNoiseAI-standard
+panorama_14BB6326_1E74_F7EE_419D_43DA551344A1.label = dentro 3-DeNoiseAI-standard
+panorama_14BA8AB8_1E74_F6E1_4184_7A9540A2E1D8.label = dentro 4-DeNoiseAI-standard
+panorama_14BBA2A7_1E74_16EE_41BD_B7AA9FBC0D8E.label = dentro 5-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = SAIBA MAIS
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = SAIBA MAIS
+
+### Image
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Conheça a Nossa Unidade
+
+### Title
+tour.name = Escritolândia Capoeiras 
