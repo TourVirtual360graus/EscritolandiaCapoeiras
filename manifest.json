@@ -1,10 +1,4 @@
 {
- "background_color": "#FFFFFF",
- "name": "Escritolândia Capoeiras ",
- "description": "Conheça a Nossa Unidade",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +35,11 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "theme_color": "#FFFFFF",
+ "name": "Escritolândia Capoeiras",
+ "description": "Conheça a Nossa Unidade",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
